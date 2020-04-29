@@ -1,1 +1,2 @@
-"#UOLCS_CM1010" 
+# Repository for Javascript Programming Exercises
+Welcome
