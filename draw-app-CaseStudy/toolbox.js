@@ -23,7 +23,7 @@ function Toolbox() {
 
 	//add a new tool icon to the html page
 	var addToolIcon = function(icon, name) {
-		var sideBarItem = createDiv("<img src='" + icon + "'></div>");
+		var sideBarItem = createDiv("<img src='" + icon + "' width=45 height=45></div>");
 		sideBarItem.class('sideBarItem')
 		sideBarItem.id(name + "sideBarItem")
 		sideBarItem.parent('sidebar');

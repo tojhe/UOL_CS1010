@@ -54,7 +54,7 @@ html, body {
 }
 
 
-	.wrapper {
+.wrapper {
 		display: grid;
 		height: 100%;
 		grid-template-columns: 70px 230px  minmax(500px, 1fr);
